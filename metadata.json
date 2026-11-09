@@ -1,0 +1,8 @@
+{
+  "name": "دليل التطبيقات الحكومية السورية",
+  "description": "دليل تفاعلي متكامل يجمع كافة التطبيقات والمنصات الحكومية السورية الرسمية وخدماتها الإلكترونية، مع شرح مفصل وروابط الوصول وإرشادات الاستخدام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
